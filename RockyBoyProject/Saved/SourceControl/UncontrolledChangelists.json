@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/user/OneDrive/Documents/GitHub/RockyHeights/Stoner/RockyBoyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/user/OneDrive/Documents/GitHub/RockyHeights/Stoner/RockyBoyProject/Content/Timer.uasset",
+				"C:/Users/user/OneDrive/Documents/GitHub/RockyHeights/Stoner/RockyBoyProject/Content/Score.uasset",
+				"C:/Users/user/OneDrive/Documents/GitHub/RockyHeights/Stoner/RockyBoyProject/Content/ScoringCube.uasset",
+				"C:/Users/user/OneDrive/Documents/GitHub/RockyHeights/Stoner/RockyBoyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/83/8F98P785MFIHGZO5SUH9AV.uasset",
 				"D:/RockyBoy/MyProject 5.1/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/RockyBoy/MyProject 5.1/Content/Characters/RockyBoy_SKM.uasset",
 				"D:/RockyBoy/MyProject 5.1/Content/Characters/lambert1.uasset",
