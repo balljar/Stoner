@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"F:/epic/projects/Stoner/RockyBoyProject/Content/ThirdPerson/Maps/Levels/Level3.umap",
+				"F:/epic/projects/Stoner/RockyBoyProject/Content/Blueprint/Portals/BP_Portal_2.uasset",
+				"F:/epic/projects/Stoner/RockyBoyProject/Content/Blueprint/Portals/BP_Portal_3.uasset",
+				"F:/epic/projects/Stoner/RockyBoyProject/Content/Blueprint/Portals/BP_Portal_31.uasset",
+				"F:/epic/projects/Stoner/RockyBoyProject/Content/Blueprint/Portals/BP_Portal_22.uasset",
+				"F:/epic/projects/Stoner/RockyBoyProject/Content/ThirdPerson/Maps/Levels/Level2.umap",
 				"C:/Users/user/OneDrive/Documents/GitHub/RockyHeights/Stoner/RockyBoyProject/Content/ThirdPerson/Maps/UI_Widgets/MusicMenu.uasset",
 				"C:/Users/user/OneDrive/Documents/GitHub/RockyHeights/Stoner/RockyBoyProject/Content/ThirdPerson/Maps/UI_Widgets/GraphicsMenu.uasset",
 				"C:/Users/user/OneDrive/Documents/GitHub/RockyHeights/Stoner/RockyBoyProject/Content/ThirdPerson/Maps/UI_Widgets/KeyMenu.uasset",
