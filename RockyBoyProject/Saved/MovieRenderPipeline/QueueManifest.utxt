@@ -1,0 +1,472 @@
+{
+	"GatherableTextData": [],
+	"ImportTable": [
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Class",
+			"OuterIndex": -12,
+			"ObjectName": "MetaData",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Class",
+			"OuterIndex": -13,
+			"ObjectName": "MoviePipelineExecutorJob",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Class",
+			"OuterIndex": -13,
+			"ObjectName": "MoviePipelineExecutorShot",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Class",
+			"OuterIndex": -13,
+			"ObjectName": "MoviePipelineOutputSetting",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Class",
+			"OuterIndex": -13,
+			"ObjectName": "MoviePipelinePrimaryConfig",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Class",
+			"OuterIndex": -13,
+			"ObjectName": "MoviePipelineQueue",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Class",
+			"OuterIndex": -14,
+			"ObjectName": "MoviePipelineDeferredPassBase",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Class",
+			"OuterIndex": -14,
+			"ObjectName": "MoviePipelineImageSequenceOutput_JPG",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/MovieRenderPipelineCore",
+			"ClassName": "MoviePipelineExecutorJob",
+			"OuterIndex": -13,
+			"ObjectName": "Default__MoviePipelineExecutorJob",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/MovieRenderPipelineCore",
+			"ClassName": "MoviePipelineOutputSetting",
+			"OuterIndex": -11,
+			"ObjectName": "DefaultOutputSetting",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/MovieRenderPipelineCore",
+			"ClassName": "MoviePipelinePrimaryConfig",
+			"OuterIndex": -9,
+			"ObjectName": "DefaultConfig",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Package",
+			"OuterIndex": 0,
+			"ObjectName": "/Script/CoreUObject",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Package",
+			"OuterIndex": 0,
+			"ObjectName": "/Script/MovieRenderPipelineCore",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Package",
+			"OuterIndex": 0,
+			"ObjectName": "/Script/MovieRenderPipelineRenderPasses",
+			"PackageName": "None",
+			"bImportOptional": false
+		}
+	],
+	"ExportTable": [
+		{
+			"ClassIndex": -1,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 0,
+			"ObjectName": "PackageMetaData",
+			"ObjectFlags": 2,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": true,
+			"bNotForServer": true,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": false,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0
+		},
+		{
+			"ClassIndex": -7,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 7,
+			"ObjectName": "MoviePipelineDeferredPassBase_0",
+			"ObjectFlags": 0,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": true,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0
+		},
+		{
+			"ClassIndex": -2,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 8,
+			"ObjectName": "MoviePipelineExecutorJob_0",
+			"ObjectFlags": 8,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": true,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0
+		},
+		{
+			"ClassIndex": -3,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 3,
+			"ObjectName": "MoviePipelineExecutorShot_0",
+			"ObjectFlags": 0,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": true,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0
+		},
+		{
+			"ClassIndex": -8,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 7,
+			"ObjectName": "MoviePipelineImageSequenceOutput_JPG_0",
+			"ObjectFlags": 0,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": true,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0
+		},
+		{
+			"ClassIndex": -4,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 7,
+			"ObjectName": "DefaultOutputSetting",
+			"ObjectFlags": 262152,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": true,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": true,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0
+		},
+		{
+			"ClassIndex": -5,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 3,
+			"ObjectName": "DefaultConfig",
+			"ObjectFlags": 262152,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": true,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": true,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0
+		},
+		{
+			"ClassIndex": -6,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 0,
+			"ObjectName": "EditorMoviePipelineQueue",
+			"ObjectFlags": 262155,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": true,
+			"bIsAsset": true,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0
+		}
+	],
+	"Thumbnails": {},
+	"Exports": {
+		"PackageMetaData": {
+			"Properties": {},
+			"ObjectMetaDataMap": [],
+			"RootMetaDataMap": [
+				[
+					"PackageLocalizationNamespace",
+					"07D6558BF336E9CA1832D3DE652ED1C0"
+				]
+			]
+		},
+		"EditorMoviePipelineQueue:MoviePipelineExecutorJob_0.DefaultConfig.MoviePipelineDeferredPassBase_0": {
+			"Properties": {}
+		},
+		"EditorMoviePipelineQueue:MoviePipelineExecutorJob_0": {
+			"Properties": {
+				"JobName": {
+					"__Type": "StrProperty",
+					"__Value": "Menu_Render"
+				},
+				"Sequence": {
+					"__Type": "StructProperty",
+					"__StructName": "SoftObjectPath",
+					"__Value": "Object:/Game/Menu_Render.Menu_Render"
+				},
+				"Map": {
+					"__Type": "StructProperty",
+					"__StructName": "SoftObjectPath",
+					"__Value": "Object:/Game/ThirdPerson/Maps/Levels/Render_Level.Render_Level"
+				},
+				"ShotInfo": {
+					"__Type": "ArrayProperty",
+					"__InnerType": "ObjectProperty",
+					"__Value": [
+						"4"
+					]
+				},
+				"Configuration": {
+					"__Type": "ObjectProperty",
+					"__Value": "7"
+				}
+			}
+		},
+		"EditorMoviePipelineQueue:MoviePipelineExecutorJob_0.MoviePipelineExecutorShot_0": {
+			"Properties": {
+				"OuterName": {
+					"__Type": "StrProperty",
+					"__Value": "no shot"
+				},
+				"InnerName": {
+					"__Type": "StrProperty",
+					"__Value": "CameraActor"
+				},
+				"SidecarCameras": {
+					"__Type": "ArrayProperty",
+					"__InnerType": "StructProperty",
+					"__InnerStructName": "MoviePipelineSidecarCamera",
+					"__Value": [
+						{
+							"BindingId": {
+								"__Type": "StructProperty",
+								"__StructName": "Guid",
+								"__Value": "97A1B90E4973F0D7A8AC6AA476F49EB2"
+							},
+							"Name": {
+								"__Type": "StrProperty",
+								"__Value": "CameraActor"
+							}
+						}
+					]
+				}
+			}
+		},
+		"EditorMoviePipelineQueue:MoviePipelineExecutorJob_0.DefaultConfig.MoviePipelineImageSequenceOutput_JPG_0": {
+			"Properties": {}
+		},
+		"EditorMoviePipelineQueue:MoviePipelineExecutorJob_0.DefaultConfig.DefaultOutputSetting": {
+			"Properties": {}
+		},
+		"EditorMoviePipelineQueue:MoviePipelineExecutorJob_0.DefaultConfig": {
+			"Properties": {
+				"OutputSetting": {
+					"__Type": "ObjectProperty",
+					"__Value": "6"
+				},
+				"DisplayName": {
+					"__Type": "StrProperty",
+					"__Value": "DefaultConfig"
+				},
+				"Settings": {
+					"__Type": "ArrayProperty",
+					"__InnerType": "ObjectProperty",
+					"__Value": [
+						"5",
+						"2"
+					]
+				}
+			}
+		},
+		"EditorMoviePipelineQueue": {
+			"Properties": {
+				"Jobs": {
+					"__Type": "ArrayProperty",
+					"__InnerType": "ObjectProperty",
+					"__Value": [
+						"3"
+					]
+				}
+			}
+		}
+	},
+	"Summary": {
+		"Tag": -1641380927,
+		"LegacyFileVersion": -8,
+		"LegacyUE3Version": 864,
+		"FileVersionUE4": 522,
+		"FileVersionUE5": 1009,
+		"FileVersionLicenseeUE4": 0,
+		"CustomVersions": [
+			{
+				"Key": "E4B068EDF49442E9A231DA0B2E46BB41",
+				"Version": 40
+			}
+		],
+		"TotalHeaderSize": 0,
+		"PackageName": "/Engine/MovieRenderPipeline/Editor/QueueManifest",
+		"PackageFlags": 0,
+		"NameCount": 46,
+		"NameOffset": 0,
+		"SoftObjectPathsCount": 0,
+		"SoftObjectPathsOffset": 0,
+		"LocalizationId": "07D6558BF336E9CA1832D3DE652ED1C0",
+		"GatherableTextDataCount": 0,
+		"GatherableTextDataOffset": 0,
+		"ExportCount": 8,
+		"ExportOffset": 0,
+		"ImportCount": 14,
+		"ImportOffset": 0,
+		"DependsOffset": 0,
+		"SoftPackageReferencesCount": 0,
+		"SoftPackageReferencesOffset": 0,
+		"SearchableNamesOffset": 0,
+		"ThumbnailTableOffset": 0,
+		"Guid": "7C9BA03C4B1EDB4E8B9A029F9665C92D",
+		"PersistentGuid": "1EDF87B54A4F993BDF8A278A645EFC2F",
+		"GenerationCount": 1,
+		"Generations": [
+			{
+				"ExportCount": 8,
+				"NameCount": 46
+			}
+		],
+		"SavedByEngineVersion": "5.2.1-26001984+++UE5+Release-5.2",
+		"CompatibleWithEngineVersion": "5.2.0-25360045+++UE5+Release-5.2",
+		"CompressionFlags": 0,
+		"CompressedChunks": [],
+		"PackageSource": 2952946835,
+		"AdditionalPackagesToCook": [],
+		"AssetRegistryDataOffset": 0,
+		"BulkDataStartOffset": 0,
+		"WorldTileInfoDataOffset": 0,
+		"ChunkIDs": [],
+		"PreloadDependencyCount": 0,
+		"PreloadDependencyOffset": 0,
+		"NamesReferencedFromExportDataCount": 27,
+		"PayloadTocOffset": -1,
+		"DataResourceOffset": 0
+	}
+}
